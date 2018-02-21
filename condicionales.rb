@@ -8,3 +8,5 @@ if numero > 15 && numero <30
 else
   puts "No se encuentra en el intervalo"
 end
+
+#
